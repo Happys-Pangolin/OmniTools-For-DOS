@@ -4,10 +4,10 @@ OmniTools For DOS:
   At present, OmniTools For DOS is a formal version, so its functionality may not be complete (it may have very few features). 
   We will continue to improve the toolbox (by adding more features).
 
-[BiliBili](https://space.bilibili.com/1577944011)
-[BiliBili](https://space.bilibili.com/1582448018)
-[BiliBili](https://space.bilibili.com/3493086896326883)
-[BiliBili](https://space.bilibili.com/2085020713)
+[BiliBili-Happy's Pangolin](https://space.bilibili.com/1577944011)
+[BiliBili-才羽绿可爱捏](https://space.bilibili.com/1582448018)
+[BiliBili-Kernel386](https://space.bilibili.com/3493086896326883)
+[BiliBili-sF6-六氟化硫-](https://space.bilibili.com/2085020713)
 
 ![image](https://github.com/Happys-Pangolin/OmniTools-For-DOS/assets/166889997/2e732d23-35c0-4665-a148-3c469789599a)
 ![image](https://github.com/Happys-Pangolin/OmniTools-For-DOS/assets/166889997/c0e09d96-28bf-4144-9319-57c3982692d9)
@@ -17,7 +17,6 @@ OmniTools For DOS:
 ![image](https://github.com/Happys-Pangolin/OmniTools-For-DOS/assets/166889997/b8de87f6-c475-4121-9aca-3ee6221c319b)
 ![image](https://github.com/Happys-Pangolin/OmniTools-For-DOS/assets/166889997/0e00b123-0371-4aef-9501-dcdb7326ae3c)
 
-*
  Volume in drive C is MS-DOS_6   
  Volume Serial Number is 5855-591C
 
@@ -111,4 +110,3 @@ PICTVIEW EXE    150208 07-19-00   1:59a
 Total files listed:
        59 file(s)    5561087 bytes
                    216711168 bytes free
-*
