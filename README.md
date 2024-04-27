@@ -1,14 +1,14 @@
-*
-A lightweight toolbox for quick access to practical features.
-OmniTools For DOS is a toolbox developed by Omni++ and Happy's Pangolin for DOS.
-At present, OmniTools For DOS is a formal version, so its functionality may not be complete (it may have very few features). 
-We will continue to improve the toolbox (by adding more features).
-*
-BiliBili:(https://space.bilibili.com/1577944011
-https://space.bilibili.com/1582448018
-https://space.bilibili.com/3493086896326883
-https://space.bilibili.com/2085020713
-*
+OmniTools For DOS:
+  A lightweight toolbox for quick access to practical features.
+  OmniTools For DOS is a toolbox developed by Omni++ and Happy's Pangolin for DOS.
+  At present, OmniTools For DOS is a formal version, so its functionality may not be complete (it may have very few features). 
+  We will continue to improve the toolbox (by adding more features).
+
+[BiliBili](https://space.bilibili.com/1577944011)
+[BiliBili](https://space.bilibili.com/1582448018)
+[BiliBili](https://space.bilibili.com/3493086896326883)
+[BiliBili](https://space.bilibili.com/2085020713)
+
 ![image](https://github.com/Happys-Pangolin/OmniTools-For-DOS/assets/166889997/2e732d23-35c0-4665-a148-3c469789599a)
 ![image](https://github.com/Happys-Pangolin/OmniTools-For-DOS/assets/166889997/c0e09d96-28bf-4144-9319-57c3982692d9)
 ![image](https://github.com/Happys-Pangolin/OmniTools-For-DOS/assets/166889997/fb66ff23-fc5f-4d56-80cc-785a3d0742b3)
